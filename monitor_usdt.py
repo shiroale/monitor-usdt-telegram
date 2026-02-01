@@ -127,8 +127,3 @@ def ejecutar_monitor():
 
 if __name__ == "__main__":
     ejecutar_monitor()
-```
-
-### **2. `requirements.txt`**
-```
-requests==2.31.0
